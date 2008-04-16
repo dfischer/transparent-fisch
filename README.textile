@@ -1,3 +1,12 @@
+h3. How Do I Install it?
+
+@cd ~/Library/Application\ Support/TextMate/Themes/@
+@git clone git@github.com:dfischer/transparent-fisch.git@
+
+h3. Got Screenshots?
+
+Heck yeah we do!
+
 Here's an example of how it looks:
 
 !http://farm3.static.flickr.com/2092/2417535952_329fb3f4c7.jpg!
