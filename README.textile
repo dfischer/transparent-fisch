@@ -3,6 +3,8 @@ h3. How Do I Install it?
 @cd ~/Library/Application\ Support/TextMate/Themes/@
 @git clone git://github.com/dfischer/transparent-fisch.git@
 
+Feel free to play around with the transparency, the default transparency should be 80%.
+
 h3. Got Screenshots?
 
 Heck yeah we do!
