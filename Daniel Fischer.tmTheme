@@ -139,7 +139,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#0050B7</string>
+				<string>#4380FE</string>
 			</dict>
 		</dict>
 		<dict>
@@ -213,7 +213,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FF0000</string>
+				<string>#FF0049</string>
 			</dict>
 		</dict>
 		<dict>
@@ -310,6 +310,8 @@
 			<string>string</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+				<string></string>
 				<key>foreground</key>
 				<string>#66FF00</string>
 			</dict>
@@ -618,6 +620,28 @@
 				<string></string>
 				<key>foreground</key>
 				<string>#EEFF36</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown Heading</string>
+			<key>scope</key>
+			<string>markup.heading.markdown</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#F7FF1A</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown Numbered List</string>
+			<key>scope</key>
+			<string>markup.list.numbered.markdown</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FFA144</string>
 			</dict>
 		</dict>
 	</array>
